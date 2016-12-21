@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MTRSimulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MTRSimulator_jar_new</output-path>
+    <root id="archive" name="MTRSimulator.jar">
+      <element id="module-output" name="MTRSimulator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/com.ibm.mq.jmqi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/com.ibm.mq.headers.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/h2-1.4.193.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/com.ibm.mq.jar" path-in-jar="/" />
+      <element id="library" level="project" name="com.ibm.mq.allclient" />
+      <element id="library" level="project" name="com.ibm.mq.jmqi" />
+      <element id="library" level="project" name="com.ibm.mq.traceControl" />
+      <element id="library" level="project" name="com.ibm.mqjms" />
+      <element id="library" level="project" name="jms" />
+      <element id="library" level="project" name="log4j-1.2.9" />
+    </root>
+  </artifact>
+</component>

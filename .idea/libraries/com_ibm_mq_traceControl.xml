@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.ibm.mq.traceControl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/com.ibm.mq.traceControl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

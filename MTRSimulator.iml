@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="com.ibm.mq.jmqi" level="project" />
+    <orderEntry type="library" name="com.ibm.mq.allclient" level="project" />
+    <orderEntry type="library" name="com.ibm.mq.traceControl" level="project" />
+    <orderEntry type="library" name="com.ibm.mqjms" level="project" />
+    <orderEntry type="library" name="jms" level="project" />
+    <orderEntry type="library" name="log4j-1.2.9" level="project" />
+  </component>
+</module>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.ibm.mq.jmqi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/com.ibm.mq.jmqi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/com.ibm.mq.headers.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/h2-1.4.193.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/com.ibm.mq.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/lib/com.ibm.mq.jmqi.jar!/" />
+    </SOURCES>
+  </library>
+</component>
