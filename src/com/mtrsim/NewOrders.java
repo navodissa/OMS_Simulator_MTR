@@ -297,13 +297,13 @@ public class NewOrders {
 
                     }
                 }
-                // System.out.println("Tokinizer completed");
+                // System.out.println("Tokinizer is completed");
 
             } catch (Exception e) {
                 logger.error("Error in parsing :" + e.getMessage().toString());
             }
         }
-        logger.info("New Order parsing Successful");
+        logger.info("New Order parsing Successfully done");
     }
 
     private String dataGetter(String givenQuery, String column){
