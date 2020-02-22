@@ -303,7 +303,7 @@ public class NewOrders {
                 logger.error("Error in parsing :" + e.getMessage().toString());
             }
         }
-        logger.info("New Order parsing Successfully done");
+        logger.info("New Order parsing Successfully done..");
     }
 
     private String dataGetter(String givenQuery, String column){
