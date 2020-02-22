@@ -297,7 +297,7 @@ public class NewOrders {
 
                     }
                 }
-                // System.out.println("Tokinizer is completed");
+                // System.out.println("Tokinizer completed");
 
             } catch (Exception e) {
                 logger.error("Error in parsing :" + e.getMessage().toString());
